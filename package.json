@@ -1,5 +1,5 @@
 {
-  "name": "NodePaysafeSDK",
+  "name": "@qccareerschool/node-paysafe-sdk",
   "version": "1.0.0",
   "description": "Nodejs SDK for Paysafe",
   "main": "./lib/PaysafeApiClient.js",
